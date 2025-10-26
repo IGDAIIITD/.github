@@ -10,10 +10,3 @@ What we plan to do:
 1. Engine Dev: You'll make a game engine in 1 year with a language of your choice
     - Intro to Vulkan
     - Monthly workshops
-
-Socials:
-
-- [Discord](https://discord.com/invite/muZEEAHsg6)
-- [LinkedIn](https://www.linkedin.com/company/igda-iiit-d/)
-- [Whatsapp](https://chat.whatsapp.com/DiDFHat0Qmr58sMmxoCRga)
-- [Instagram](https://www.instagram.com/igda.iiitd)
